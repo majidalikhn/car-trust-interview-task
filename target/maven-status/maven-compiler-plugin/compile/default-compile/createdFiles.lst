@@ -1,0 +1,9 @@
+com/majid/cartrust/application/observers/NumberPlateObserver.class
+com/majid/cartrust/application/observers/MechanicServiceObserver.class
+com/majid/cartrust/application/observable/CarRegisteryObservable.class
+com/majid/cartrust/application/observers/TaxObserver.class
+com/majid/cartrust/application/CarTrustDemo.class
+com/majid/cartrust/application/observers/BankObserver.class
+com/majid/cartrust/application/observers/InsuranceObserver.class
+com/majid/cartrust/CartrustApplication.class
+com/majid/cartrust/application/observers/PoliceObserver.class
